@@ -1,0 +1,19 @@
+theme: jekyll-theme-minimal
+title: Forklift Maintenance Prediction Model
+description: >
+  <h3>Predictive Analysis for Forklift Maintenance</h3>
+  <p>
+    <br>
+    <br>
+    <b>Libraries:</b>
+    <ul>
+      <li>pandas</li>
+      <li>NumPy</li>
+      <li>scikit-learn</li>
+      <li>Matplotlib</li>
+      <li>Seaborn</li>
+      <li>imbalanced-learn</li>
+    </ul>
+    <br>
+  </p>
+---
