@@ -81,7 +81,7 @@ for name, model in models.items():
     recall = recall_score(y_test, y_pred)
     results[name] = {'F1-score': f1, 'Accuracy': accuracy, 'Precision': precision, 'Recall': recall}
 ```
-![Forklift predictive maintenance](assets/Forklift_predictive_maintenance.png)
+![Forklift_predictive_maintenance](asset/Forklift_predictive_maintenance.png)
 
 ### Results & Recommendation
 The developed forklift maintenance prediction model demonstrates promising results, achieving high accuracy, precision, and recall in forecasting maintenance requirements. By leveraging this model, organizations can proactively schedule maintenance tasks, reduce downtime, and enhance overall operational efficiency.
